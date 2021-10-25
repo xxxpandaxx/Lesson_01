@@ -1,0 +1,16 @@
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\bin\Debug\net6.0\prog0003.exe
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\bin\Debug\net6.0\prog0003.deps.json
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\bin\Debug\net6.0\prog0003.runtimeconfig.json
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\bin\Debug\net6.0\prog0003.dll
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\bin\Debug\net6.0\ref\prog0003.dll
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\bin\Debug\net6.0\prog0003.pdb
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\obj\Debug\net6.0\prog0003.GlobalUsings.g.cs
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\obj\Debug\net6.0\prog0003.csproj.AssemblyReference.cache
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\obj\Debug\net6.0\prog0003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\obj\Debug\net6.0\prog0003.AssemblyInfoInputs.cache
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\obj\Debug\net6.0\prog0003.AssemblyInfo.cs
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\obj\Debug\net6.0\prog0003.csproj.CoreCompileInputs.cache
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\obj\Debug\net6.0\prog0003.dll
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\obj\Debug\net6.0\ref\prog0003.dll
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\obj\Debug\net6.0\prog0003.pdb
+C:\Users\aman7\OneDrive\Рабочий стол\Lesson001\prog0003\obj\Debug\net6.0\prog0003.genruntimeconfig.cache
